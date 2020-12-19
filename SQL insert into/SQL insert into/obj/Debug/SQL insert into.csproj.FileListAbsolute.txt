@@ -1,0 +1,19 @@
+D:\居涵\C#\SQL insert into\SQL insert into\bin\Debug\SQL insert into.exe.config
+D:\居涵\C#\SQL insert into\SQL insert into\bin\Debug\SQL insert into.exe
+D:\居涵\C#\SQL insert into\SQL insert into\bin\Debug\SQL insert into.pdb
+D:\居涵\C#\SQL insert into\SQL insert into\obj\Debug\SQL insert into.csprojAssemblyReference.cache
+D:\居涵\C#\SQL insert into\SQL insert into\obj\Debug\SQL_insert_into.Properties.Resources.resources
+D:\居涵\C#\SQL insert into\SQL insert into\obj\Debug\SQL insert into.csproj.GenerateResource.cache
+D:\居涵\C#\SQL insert into\SQL insert into\obj\Debug\SQL insert into.csproj.CoreCompileInputs.cache
+D:\居涵\C#\SQL insert into\SQL insert into\obj\Debug\SQL insert into.exe
+D:\居涵\C#\SQL insert into\SQL insert into\obj\Debug\SQL insert into.pdb
+D:\C#\SQL insert into\SQL insert into\bin\Debug\SQL insert into.exe.config
+D:\C#\SQL insert into\SQL insert into\bin\Debug\SQL insert into.exe
+D:\C#\SQL insert into\SQL insert into\bin\Debug\SQL insert into.pdb
+D:\C#\SQL insert into\SQL insert into\obj\Debug\SQL insert into.csprojAssemblyReference.cache
+D:\C#\SQL insert into\SQL insert into\obj\Debug\SQL_insert_into.Form1.resources
+D:\C#\SQL insert into\SQL insert into\obj\Debug\SQL_insert_into.Properties.Resources.resources
+D:\C#\SQL insert into\SQL insert into\obj\Debug\SQL insert into.csproj.GenerateResource.cache
+D:\C#\SQL insert into\SQL insert into\obj\Debug\SQL insert into.csproj.CoreCompileInputs.cache
+D:\C#\SQL insert into\SQL insert into\obj\Debug\SQL insert into.exe
+D:\C#\SQL insert into\SQL insert into\obj\Debug\SQL insert into.pdb
